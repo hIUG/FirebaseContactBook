@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseContactBook</string>
+    <string name="action_add_contact">Add contact</string>
+    <string name="action_log_out">Log out</string>
+</resources>
